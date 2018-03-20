@@ -1,11 +1,6 @@
----
-layout: "post"
-title: "A curated list of those Vim How-Tos we search frequently in our daily coding"
-comments: true
-categories: vim
-tags: [vim, blogseries, dummynotes]
-image: "blog-series-vim/blog-series-vim.png"
----
+## Awesome-Vim-How-Tos
+ 
+![logo](/img/blog-series-vim.png)
 
 Vim has been my editor for day to day work for a while, and often times I find myself questing same vim How-To on stackoverflow and websites as such. To help manage a list of my frequent used Vim tips/commands, and potentially be useful to you, I am curating this list of vim How-Tos.  
   
@@ -19,7 +14,7 @@ Vim has been my editor for day to day work for a while, and often times I find m
 
   Demo:  
   Say you have a list in python and you forgot to quote items, and you can take advantage of this vim tip instead of adding quotes for each of them mannually.  
-  ![selected-search-with-demo](/assets/img/blog-series-vim/selected-search-replace.gif)
+  ![selected-search-with-demo](/img/selected-search-replace.gif)
 
 - [x] **How to cancel search hilight ?**  
   There are times when you have unwanted search highlight, and you simplely want to cancel the highlight. `:noh` command exactly do the trick:  
@@ -27,6 +22,6 @@ Vim has been my editor for day to day work for a while, and often times I find m
   1. Simply type `:` (colon) and follow with `noh`
 
   Demo:
-  ![cancel-search-highlight](/assets/img/blog-series-vim/cancel-search-highlight.gif)
+  ![cancel-search-highlight](/img/cancel-search-highlight.gif)
 
 
